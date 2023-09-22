@@ -1,0 +1,48 @@
+.Div1 {
+    display: flex;
+    justify-content: center;
+    border: 2px;
+    border-color: #808080;
+    background-color: #808080;
+    width: 60vw;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 300px;
+
+}
+
+.naame,
+.des {
+    font-size: 20px;
+}
+
+.input1,
+.input2 {
+    border-radius: 6px;
+    padding: 5px;
+    margin-right: 10px;
+    border-color: #ffb6c1;
+
+}
+
+.Addbutton {
+    border-radius: 10px;
+    margin-left: 100px;
+    width: 70px;
+    border-color: #f08080;
+    background-color: #f08080;
+    font-weight: bold;
+}
+.Div2 {
+    display: flex;
+    justify-content: center;
+    border: 2px;
+    border-color: #808080;
+    background-color: #808080;
+    width: 60vw;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 200px
+
+}
